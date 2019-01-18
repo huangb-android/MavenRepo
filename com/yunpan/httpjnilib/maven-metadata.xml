@@ -3,7 +3,7 @@
   <groupId>com.yunpan</groupId>
   <artifactId>httpjnilib</artifactId>
   <versioning>
-    <release>0.0.27</release>
+    <release>0.0.28</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
@@ -32,7 +32,8 @@
       <version>0.0.25</version>
       <version>0.0.26</version>
       <version>0.0.27</version>
+      <version>0.0.28</version>
     </versions>
-    <lastUpdated>20190118032207</lastUpdated>
+    <lastUpdated>20190118083433</lastUpdated>
   </versioning>
 </metadata>
