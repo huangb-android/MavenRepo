@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yunpan</groupId>
   <artifactId>expressMoudle</artifactId>
-  <version>0.0.76</version>
+  <version>0.0.77</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>EcmMoudle</groupId>
+      <groupId>com.yunpan</groupId>
       <artifactId>httpjnilib</artifactId>
-      <version>unspecified</version>
+      <version>0.0.77</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
