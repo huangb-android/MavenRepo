@@ -3,7 +3,7 @@
   <groupId>com.yunpan</groupId>
   <artifactId>expressMoudle</artifactId>
   <versioning>
-    <release>0.0.84</release>
+    <release>0.0.116</release>
     <versions>
       <version>0.0.34</version>
       <version>0.0.35</version>
@@ -56,7 +56,39 @@
       <version>0.0.82</version>
       <version>0.0.83</version>
       <version>0.0.84</version>
+      <version>0.0.85</version>
+      <version>0.0.86</version>
+      <version>0.0.87</version>
+      <version>0.0.88</version>
+      <version>0.0.89</version>
+      <version>0.0.90</version>
+      <version>0.0.91</version>
+      <version>0.0.92</version>
+      <version>0.0.93</version>
+      <version>0.0.94</version>
+      <version>0.0.95</version>
+      <version>0.0.96</version>
+      <version>0.0.97</version>
+      <version>0.0.98</version>
+      <version>0.0.99</version>
+      <version>0.0.100</version>
+      <version>0.0.101</version>
+      <version>0.0.102</version>
+      <version>0.0.103</version>
+      <version>0.0.104</version>
+      <version>0.0.105</version>
+      <version>0.0.106</version>
+      <version>0.0.107</version>
+      <version>0.0.108</version>
+      <version>0.0.109</version>
+      <version>0.0.110</version>
+      <version>0.0.111</version>
+      <version>0.0.112</version>
+      <version>0.0.113</version>
+      <version>0.0.114</version>
+      <version>0.0.115</version>
+      <version>0.0.116</version>
     </versions>
-    <lastUpdated>20190304090346</lastUpdated>
+    <lastUpdated>20190419084015</lastUpdated>
   </versioning>
 </metadata>
